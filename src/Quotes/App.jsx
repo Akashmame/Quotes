@@ -1,7 +1,7 @@
 import react from 'react';
 import { useState } from 'react/cjs/react.development';
-import 'style.css'
-import Data from 'Show_coll'
+import './style.css'
+import Data from './Show_coll'
 
 let i = 1;
 

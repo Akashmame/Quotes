@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 // import 
 // import App from './img'
 
-import App from '/Quotes/App'
+import App from './Quotes/App'
 
 ReactDom.render(
     <BrowserRouter>
